@@ -44,3 +44,50 @@ Make Sure you've nodemon installed
   npm i
   nodemon server.js
 ```
+
+# CREATE .env FILE IN BACKEND & PUT THE FOLLOWING DETAILS
+
+DATABASE_URL="postgresql://postgres:Messi10@localhost:5432/Emp-Manager?schema=public"
+
+PORT = 8383
+
+JWT_SECRET = "secret"
+
+NODE_ENV = "development"
+
+CLOUDINARY_CLOUD_NAME = dw26qy0m9
+
+CLOUDINARY_API_KEY = 823185648553476
+
+CLOUDINARY_API_SECRET = sHKjOgadv_YsRyL6pPsuMH0FkBE
+
+APP_PASSWORD = "wyeceloojdsguutu"
+
+# For Testing 
+
+In Sign-In fill up these details
+
+For Admin 
+Position : Admin
+
+Admin Account
+```bash
+email: sowmikdey23@gmail.com
+password: 123456
+```
+For Manager
+Position : Manager
+
+Manager Account
+```bash
+email: leo10@gmail.com
+password: 123456
+```
+
+For Employee
+Position : Anything you want doestn't matter
+
+```bash
+email: abcd@gmail.com
+password: 123456
+```

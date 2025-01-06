@@ -31,6 +31,7 @@ To run frontend do the following
 
 ```bash
   cd frontend
+  npm i
   npm run dev
 ```
     
